@@ -1,2 +1,2 @@
 # oxat
-New for github
+oxat.eu
